@@ -1,0 +1,4015 @@
+Updating carry forwards for 2019 from balances of 2018
+1 Admin Test
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 30	 Sick: 30
+New Carry forwards 
+37	30
+655 Chaitrali Agashe
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 11	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 0
+New Carry forwards 
+8	6
+630 Trupti Limbayat
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 7
+New Carry forwards 
+19	13
+642 Nikita Phalke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	5
+646 Chaitanya Bhavsar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	6
+647 Vijaykumar Ambole
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 0
+New Carry forwards 
+19	6
+648 Rajan Gandhi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 0
+New Carry forwards 
+21	6
+649 Vaibhav Kharode
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	6
+671 Yogesh Chanekar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	6
+672 Usha Nandini
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	6
+59 Harsh Vardhan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 35	 Sick: 30
+New Carry forwards 
+42	30
+204 Lakshmanan R.
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 42	 Sick: 30
+New Carry forwards 
+49	30
+212 Murali Kadiramangalam
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+245 Sanjeev Chaudhary
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+74 Nagendra Jaya Kumar G.
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+83 Rakesh Yadav
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+72 Madhan Narayanan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+156 Pravin Anant Rajeshirke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+79 Pradeep Kumar Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+88 Syed Imadul Islam
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+111 Ashish Deshpande
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 25
+New Carry forwards 
+55	30
+40 Vijay Pandharkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 42	 Sick: 27
+New Carry forwards 
+49	30
+95 Suryaranjan Shandil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 30
+New Carry forwards 
+24	30
+256 Sagar Shende
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+82 Rajasimha Chinta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+201 Gaurav Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+139 Bryan Lobo
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 44	 Sick: 28
+New Carry forwards 
+51	30
+58 Harshad Ranadive
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+43 Amit Gupta (Dev)
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+97 Sudhir Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 26
+New Carry forwards 
+21	30
+172 Saravana Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+61 Inder Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+47 Ankit Srivastava
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+91 Saurabh Pramod Lale
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+48 Anubhav Tihar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+248 Sagar Deshmukh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+108 Payal Tyagi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+205 Shriniwas A. Dayama
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+66 Kshitij Kumar Yadav
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+115 Gaurav Hada
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 45	 Sick: 30
+New Carry forwards 
+52	30
+149 Mahesh Babu Ch
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+136 Ajey Walavalkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+44 Ankit Prakash Gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+64 Kratika Agrawal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+106 Yukteshwar Baranwal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+41 Achal Jain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+118 Mayank Patni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 24	 Sick: 8
+New Carry forwards 
+31	14
+241 Pravin V. Swami
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+254 Shital N. Mankar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+166 Rakesh Kumar Pathak
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+132 Amit Kumar Gond
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+168 Rohit Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+28 Ankita Chandak
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+170 Rohit Sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 7
+New Carry forwards 
+18	13
+84 Snehal B.Kunjir
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+45 Anoop Pulakanti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 12
+New Carry forwards 
+14	18
+271 Vipin Kumar Agarwal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+523 Pranjal Jain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 18	 Sick: 16
+New Carry forwards 
+25	22
+519 r mohan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+319 indranil roy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+454 Sachin More
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+312 Anand Prabhu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+277 devakumar b
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 2
+Old carry forwards	 Earned: 40	 Sick: 24
+New Carry forwards 
+47	28
+518 ramakrishna nukala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 3
+Old carry forwards	 Earned: 20	 Sick: 23
+New Carry forwards 
+27	26
+286 B. S. Kiran Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+287 kvs ravikrishna
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 39	 Sick: 21
+New Carry forwards 
+46	26
+288 lalan singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 45	 Sick: 30
+New Carry forwards 
+52	30
+278 vanaja narayanan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+292 ramsobhan kokkiligadda
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 36	 Sick: 22
+New Carry forwards 
+43	28
+520 VS Murali
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+279 srilatha ganesh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 45	 Sick: 14
+New Carry forwards 
+52	18
+318 Gopidas Ramesan Pai
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+281 laura crasto
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 8
+Old carry forwards	 Earned: 48	 Sick: 25
+New Carry forwards 
+55	23
+313 aroop tyagi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+293 Rajarao P. L.
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 31	 Sick: 29
+New Carry forwards 
+38	30
+315 dinesh radhakrishnan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+323 roshan kuriakose
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+276 arun ganesan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 43	 Sick: 20
+New Carry forwards 
+50	26
+291 raman babu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 30
+New Carry forwards 
+40	30
+310 atul borkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+308 kaustubh nande
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+302 Vinod Dhiman
+Buckets	 Earned: 2	 Sick: 1
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+50	30
+304 vishwajeet singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 45	 Sick: 30
+New Carry forwards 
+52	30
+316 dinesh tallur
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+299 Seeta R. Gunti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 38	 Sick: 22
+New Carry forwards 
+45	28
+280 Siva Prasad
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+296 ravi sankar sastry
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 40	 Sick: 10
+New Carry forwards 
+47	16
+301 sreenivas viyyuri
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 35	 Sick: 25
+New Carry forwards 
+42	30
+300 sunitha p
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 5
+New Carry forwards 
+21	11
+317 Gopala Naidu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+311 Akhilesh Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+321 Nikkhil Yarnalkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 47	 Sick: 30
+New Carry forwards 
+54	30
+289 neetu jha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 3	 Sick: 22
+New Carry forwards 
+10	28
+320 Nihar Ranjan Mohapatra
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 28
+New Carry forwards 
+55	30
+283 bharat kalyan jidugu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 27	 Sick: 28
+New Carry forwards 
+34	30
+325 souvick chakraborty
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 43	 Sick: 30
+New Carry forwards 
+50	30
+294 reshmi p. raghavan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 23	 Sick: 17
+New Carry forwards 
+30	23
+284 bharat panjwani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 27	 Sick: 30
+New Carry forwards 
+34	30
+282 anilkumar sardesai
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 37	 Sick: 26
+New Carry forwards 
+44	30
+309 saibali barooah
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 24
+New Carry forwards 
+40	30
+295 ravi sankar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 47	 Sick: 29
+New Carry forwards 
+54	30
+322 Piyush Dixit
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+324 Rafiq Somani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 30
+New Carry forwards 
+40	30
+297 srirama chakkaravarthy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 32	 Sick: 30
+New Carry forwards 
+39	30
+305 vishak t
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 20	 Sick: 15
+New Carry forwards 
+27	20
+314 DevaRaja K. D
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+290 nowneswara r. challa
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 24
+New Carry forwards 
+29	30
+122 Rajesh Kapoor
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+521 bhanu gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 17	 Sick: 22
+New Carry forwards 
+24	27
+522 Shubham Bhatnagar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+539 ponnuswamy krishnamoorthy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+526 Pankaj Mittal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+534 Amit Srivastava
+Buckets	 Earned: 5	 Sick: 2
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 26
+New Carry forwards 
+26	28
+540 Dinesh Mudit
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+545 Rahul Soni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 3
+Old carry forwards	 Earned: 22	 Sick: 25
+New Carry forwards 
+29	28
+546 Guruprasad Math
+Buckets	 Earned: 0	 Sick: 0
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 28
+New Carry forwards 
+22	28
+550 aashish bhat
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 19	 Sick: 25
+New Carry forwards 
+26	30
+551 Ankur Sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 18	 Sick: 18
+New Carry forwards 
+25	24
+552 Anand S. Halgatti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 16	 Sick: 12
+New Carry forwards 
+23	18
+555 Sandeep Verma 
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 22
+New Carry forwards 
+28	28
+558 Anandh Sivagnanam
+Buckets	 Earned: 5	 Sick: 1
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 22
+New Carry forwards 
+26	23
+559 vinod das
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 25
+New Carry forwards 
+28	30
+563 sudheer reddy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 24
+New Carry forwards 
+28	30
+576 Bhowmik Gandhi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 23
+New Carry forwards 
+28	29
+579 Raghul Rajendran
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 23
+New Carry forwards 
+28	29
+604 santhosh kumar murugadass
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 14
+New Carry forwards 
+24	20
+601 murali pullela
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 18	 Sick: 19
+New Carry forwards 
+25	25
+602 Palash Chatterjee
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 18	 Sick: 19
+New Carry forwards 
+25	25
+627 Prasanna Shankar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 13
+New Carry forwards 
+21	19
+112 amit agarwal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 29
+New Carry forwards 
+40	30
+142 harshad karve
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 32	 Sick: 30
+New Carry forwards 
+39	30
+57 h krishnan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 0
+Old carry forwards	 Earned: 19	 Sick: 20
+New Carry forwards 
+26	26
+155 prem andrade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 46	 Sick: 29
+New Carry forwards 
+53	30
+49 atul verma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 26	 Sick: 13
+New Carry forwards 
+33	17
+466 dnyaneshwar bhalekar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 30
+New Carry forwards 
+29	30
+53 bhavin desai
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 29	 Sick: 30
+New Carry forwards 
+36	30
+123 sujata bandyopadhyay
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 47	 Sick: 30
+New Carry forwards 
+54	30
+169 rajiv rath
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+233 kirti panwar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 26	 Sick: 25
+New Carry forwards 
+33	29
+151 mohan l. srinivasa
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 30
+New Carry forwards 
+40	30
+63 jaydeep gaikwad
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 39	 Sick: 10
+New Carry forwards 
+46	16
+73 m.v.n.r. rao
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 8	 Sick: 20
+New Carry forwards 
+15	24
+164 ravi kumar devaki (pune)
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 27	 Sick: 30
+New Carry forwards 
+34	30
+176 shitalkumar joshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 29	 Sick: 23
+New Carry forwards 
+36	27
+211 c. jayaprakash
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 44	 Sick: 23
+New Carry forwards 
+51	29
+50 awanish kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 25
+New Carry forwards 
+19	30
+249 sandip dhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 32	 Sick: 30
+New Carry forwards 
+39	30
+80 chamarty p. kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 2
+Old carry forwards	 Earned: 33	 Sick: 12
+New Carry forwards 
+40	16
+42 aseem jain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 7
+New Carry forwards 
+24	13
+99 vinay kumar gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 18	 Sick: 3
+Old carry forwards	 Earned: 42	 Sick: 14
+New Carry forwards 
+45	17
+222 abhilash rajan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 30
+New Carry forwards 
+7	30
+210 arun kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 19
+New Carry forwards 
+7	25
+227 durga prasad
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 20	 Sick: 21
+New Carry forwards 
+27	27
+159 padmesh mandloi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 40	 Sick: 30
+New Carry forwards 
+47	30
+133 ashok khondge
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 42	 Sick: 30
+New Carry forwards 
+49	30
+130 ankit adhiya
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 1
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+137 aashish watave
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 25	 Sick: 0
+Old carry forwards	 Earned: 38	 Sick: 28
+New Carry forwards 
+34	30
+124 samit saha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 14	 Sick: 0
+Old carry forwards	 Earned: 41	 Sick: 30
+New Carry forwards 
+48	30
+262 vinod mahale
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 9	 Sick: 20
+New Carry forwards 
+16	26
+37 ashutosh kotkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 44	 Sick: 26
+New Carry forwards 
+51	30
+143 hemant punekar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 12	 Sick: 23
+New Carry forwards 
+19	27
+150 mohib khan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 5
+Old carry forwards	 Earned: 32	 Sick: 19
+New Carry forwards 
+39	20
+146 keyur kanade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 35	 Sick: 0
+New Carry forwards 
+42	4
+209 Amit Ghodgaonkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 43	 Sick: 24
+New Carry forwards 
+50	30
+177 samir kadam
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 2
+Old carry forwards	 Earned: 48	 Sick: 20
+New Carry forwards 
+55	24
+56 dharmendra kumar singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 21	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 30
+New Carry forwards 
+0	30
+174 balasubramanyam sasanapuri
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 44	 Sick: 30
+New Carry forwards 
+51	30
+234 kvss srikanth
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 30	 Sick: 30
+New Carry forwards 
+37	30
+185 tushar sambharam
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 30
+New Carry forwards 
+29	30
+32 preet inderjeet walia
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 35	 Sick: 20
+New Carry forwards 
+42	25
+263 yadunath deuskar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 43	 Sick: 24
+New Carry forwards 
+50	29
+178 santosh kottalgi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 12
+New Carry forwards 
+14	18
+247 suparna daptardar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 12	 Sick: 22
+New Carry forwards 
+19	26
+196 yogesh patwardhan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+145 jayesh mutyal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 3	 Sick: 21
+New Carry forwards 
+10	27
+29 amit page
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 46	 Sick: 29
+New Carry forwards 
+53	30
+38 k.p. sunil kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 12	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 30
+New Carry forwards 
+24	30
+109 sanjay asane
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 4
+Old carry forwards	 Earned: 47	 Sick: 14
+New Carry forwards 
+54	16
+186 umesh c. padhye
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 2
+Old carry forwards	 Earned: 32	 Sick: 1
+New Carry forwards 
+39	5
+160 pravin nakod
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 34	 Sick: 27
+New Carry forwards 
+41	30
+175 shitanshu gohel
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 15	 Sick: 22
+New Carry forwards 
+22	28
+187 vinay carpenter
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 36	 Sick: 26
+New Carry forwards 
+43	30
+71 mahendar nalla
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 3
+Old carry forwards	 Earned: 35	 Sick: 23
+New Carry forwards 
+42	26
+92 sudhanshu prasad
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 45	 Sick: 16
+New Carry forwards 
+52	21
+134 aditya kshatriya
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 47	 Sick: 25
+New Carry forwards 
+54	30
+198 amar gulati
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+191 vishal naik bolnekar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 24	 Sick: 12
+New Carry forwards 
+31	16
+33 smita patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 27	 Sick: 13
+New Carry forwards 
+34	19
+183 tushar gaikwad
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 41	 Sick: 17
+New Carry forwards 
+48	23
+158 prashant khare
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 11
+Old carry forwards	 Earned: 18	 Sick: 30
+New Carry forwards 
+25	25
+34 siddharth phadke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 18
+New Carry forwards 
+55	24
+255 sushilkumar pimple
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 4
+Old carry forwards	 Earned: 43	 Sick: 18
+New Carry forwards 
+50	20
+189 vivek kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 12	 Sick: 9
+Old carry forwards	 Earned: 0	 Sick: 22
+New Carry forwards 
+7	19
+98 sujith uppala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 1
+Old carry forwards	 Earned: 28	 Sick: 25
+New Carry forwards 
+35	30
+195 yaddanapudi vamsi krishna
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 4
+New Carry forwards 
+29	10
+141 gunjan verma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 29
+New Carry forwards 
+17	30
+36 akash bhavsar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 5
+Old carry forwards	 Earned: 47	 Sick: 17
+New Carry forwards 
+54	18
+253 suriya narayanan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 2
+Old carry forwards	 Earned: 9	 Sick: 5
+New Carry forwards 
+16	9
+246 sanjeet c. tawade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 44	 Sick: 24
+New Carry forwards 
+51	28
+220 anagha kulkarni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 1
+Old carry forwards	 Earned: 5	 Sick: 19
+New Carry forwards 
+12	24
+260 vishal gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 33	 Sick: 12
+New Carry forwards 
+40	17
+252 sunil k. nakum
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+121 rahul ingle
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 19	 Sick: 16
+New Carry forwards 
+26	20
+153 naresh patre
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 2
+Old carry forwards	 Earned: 37	 Sick: 29
+New Carry forwards 
+44	30
+240 prajakt mahajan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 41	 Sick: 23
+New Carry forwards 
+48	29
+144 harshad ahire
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 44	 Sick: 24
+New Carry forwards 
+51	30
+236 mahadeo gadade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 1
+Old carry forwards	 Earned: 28	 Sick: 18
+New Carry forwards 
+35	23
+129 vivek patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 42	 Sick: 28
+New Carry forwards 
+49	30
+128 vaibhav dixit
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 11	 Sick: 1
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+203 pranay tembhekar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 35	 Sick: 11
+New Carry forwards 
+42	16
+219 alok khaware
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 23	 Sick: 14
+New Carry forwards 
+30	20
+31 neha p. phadke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 38	 Sick: 15
+New Carry forwards 
+45	21
+55 deepak hasani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 27
+New Carry forwards 
+7	30
+51 bhaskar agrawal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 42	 Sick: 23
+New Carry forwards 
+49	29
+190 vikas kumar yadav
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 21
+New Carry forwards 
+19	27
+257 sameer s. rohamare
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 11
+New Carry forwards 
+17	17
+258 sandeep s. roy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 18	 Sick: 29
+New Carry forwards 
+25	30
+39 sheetal shegaonkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 0
+Old carry forwards	 Earned: 41	 Sick: 15
+New Carry forwards 
+48	21
+107 Megha Vaze
+Buckets	 Earned: 2	 Sick: 1
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 18	 Sick: 7
+New Carry forwards 
+20	7
+87 shashidhar gundeti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 24
+New Carry forwards 
+40	30
+173 sudesh anil palase
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 37	 Sick: 15
+New Carry forwards 
+44	21
+228 gandhar deepak parkhi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 3
+Old carry forwards	 Earned: 37	 Sick: 11
+New Carry forwards 
+44	14
+76 Puneet Chelani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 24	 Sick: 18
+New Carry forwards 
+31	24
+101 vikas namdeo
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 6
+Old carry forwards	 Earned: 12	 Sick: 30
+New Carry forwards 
+19	30
+194 vinayak kamat
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 26	 Sick: 29
+New Carry forwards 
+33	30
+140 chetan patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 16	 Sick: 14
+New Carry forwards 
+23	20
+181 Saurabh Prabhakar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 12
+New Carry forwards 
+14	18
+93 santosh singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 30
+New Carry forwards 
+29	30
+138 anil kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 46	 Sick: 27
+New Carry forwards 
+53	30
+102 venkata narayana g v
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 13	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 3
+New Carry forwards 
+14	9
+180 sravankumar nallamothu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 3
+Old carry forwards	 Earned: 5	 Sick: 5
+New Carry forwards 
+12	8
+216 ashish garud
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 1
+Old carry forwards	 Earned: 31	 Sick: 28
+New Carry forwards 
+38	30
+237 meghana kolhatkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 1
+Old carry forwards	 Earned: 33	 Sick: 11
+New Carry forwards 
+40	16
+119 mahek v. khubchandani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 2
+Old carry forwards	 Earned: 48	 Sick: 27
+New Carry forwards 
+55	30
+223 ashutosh singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 17	 Sick: 3
+New Carry forwards 
+24	8
+67 kranthi chintala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 30	 Sick: 9
+New Carry forwards 
+37	15
+225 bhunesh kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 20
+New Carry forwards 
+55	26
+131 ankur jaura
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 14	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 30
+New Carry forwards 
+14	30
+202 mayur v. kshatriya
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 41	 Sick: 4
+New Carry forwards 
+48	9
+30 ganesh vilas shete
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 30
+New Carry forwards 
+55	30
+114 dilipkumar damera
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 1
+Old carry forwards	 Earned: 29	 Sick: 30
+New Carry forwards 
+36	30
+135 aniket chavan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 5
+Old carry forwards	 Earned: 23	 Sick: 0
+New Carry forwards 
+30	1
+85 sourabh chadha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 0
+Old carry forwards	 Earned: 32	 Sick: 18
+New Carry forwards 
+39	24
+243 ramachandra p. dama
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 1
+Old carry forwards	 Earned: 19	 Sick: 7
+New Carry forwards 
+26	12
+105 venkataharish v. theerdalla
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 4
+Old carry forwards	 Earned: 6	 Sick: 14
+New Carry forwards 
+13	16
+239 naval pathak
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 4
+Old carry forwards	 Earned: 8	 Sick: 11
+New Carry forwards 
+15	13
+232 Kavidas Kalidas Mate
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 40	 Sick: 3
+New Carry forwards 
+47	9
+75 olappamanna v. kiran
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 17
+New Carry forwards 
+19	23
+54 chandrashekhar thakur
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 1
+Old carry forwards	 Earned: 12	 Sick: 29
+New Carry forwards 
+19	30
+96 santhoshkumar tutika
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 4	 Sick: 26
+New Carry forwards 
+11	30
+89 somashekar kota
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 10	 Sick: 26
+New Carry forwards 
+17	30
+100 Vinod Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 16	 Sick: 30
+New Carry forwards 
+23	30
+90 somasekhar machani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 4	 Sick: 14
+New Carry forwards 
+11	20
+229 hrishikesh mate
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 47	 Sick: 18
+New Carry forwards 
+54	22
+231 kailas kaduskar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 1
+Old carry forwards	 Earned: 43	 Sick: 23
+New Carry forwards 
+50	28
+110 sunita melwani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 12	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 22
+New Carry forwards 
+18	28
+125 sandeep shetty
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 35	 Sick: 29
+New Carry forwards 
+42	30
+251 shambhu kumar modi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 11	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 30
+New Carry forwards 
+17	30
+207 tanaji s. adagale
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 42	 Sick: 30
+New Carry forwards 
+49	30
+244 rajesh tanksali
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 32	 Sick: 28
+New Carry forwards 
+39	30
+157 Priyanka Bhave
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 47	 Sick: 28
+New Carry forwards 
+54	30
+86 sachin c. kulkarni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 26	 Sick: 30
+New Carry forwards 
+33	30
+199 amol v. lodha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 44	 Sick: 30
+New Carry forwards 
+51	30
+126 sushilkumar s. sonar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 16	 Sick: 1
+Old carry forwards	 Earned: 31	 Sick: 4
+New Carry forwards 
+36	9
+206 srikanth katta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 2	 Sick: 1
+New Carry forwards 
+9	6
+94 shrikanth ranganadham
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 3
+Old carry forwards	 Earned: 35	 Sick: 21
+New Carry forwards 
+42	24
+81 prateek shukla
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 9	 Sick: 28
+New Carry forwards 
+16	30
+224 aditya s. mukane
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 4
+New Carry forwards 
+18	10
+193 vaibhav vashistha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 3
+Old carry forwards	 Earned: 29	 Sick: 17
+New Carry forwards 
+36	20
+184 tushar jadhav
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 3
+Old carry forwards	 Earned: 30	 Sick: 30
+New Carry forwards 
+37	30
+162 probal som
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 25	 Sick: 15
+New Carry forwards 
+32	19
+200 chetan utture
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 14	 Sick: 4
+New Carry forwards 
+21	9
+117 mahendra joshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 48	 Sick: 29
+New Carry forwards 
+55	30
+230 hemlata y. waykar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 27	 Sick: 3
+Old carry forwards	 Earned: 20	 Sick: 1
+New Carry forwards 
+14	4
+113 anup n. mehta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 41	 Sick: 30
+New Carry forwards 
+48	30
+120 rahul a. phadke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 0
+Old carry forwards	 Earned: 38	 Sick: 27
+New Carry forwards 
+45	30
+78 pushpa helwade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 9	 Sick: 1
+New Carry forwards 
+16	6
+70 mainak kundu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 1
+Old carry forwards	 Earned: 5	 Sick: 6
+New Carry forwards 
+12	11
+116 leons a. lawrence
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 21
+New Carry forwards 
+8	27
+226 devesh kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 29
+New Carry forwards 
+12	30
+259 umakant mane
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 25	 Sick: 30
+New Carry forwards 
+32	30
+179 sivasubramani krishnaswamy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 36	 Sick: 30
+New Carry forwards 
+43	30
+69 meghana joshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 10
+New Carry forwards 
+24	16
+104 vijay srikanth p s
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 45	 Sick: 8
+New Carry forwards 
+52	12
+188 vishal ganore
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 26	 Sick: 10
+New Carry forwards 
+33	16
+46 ashok sivanandham
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 2
+Old carry forwards	 Earned: 14	 Sick: 20
+New Carry forwards 
+21	24
+197 ashish chinnawar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 33	 Sick: 23
+New Carry forwards 
+40	27
+192 vinod s.rao
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 4
+Old carry forwards	 Earned: 14	 Sick: 20
+New Carry forwards 
+21	22
+242 rahul patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 31	 Sick: 30
+New Carry forwards 
+38	30
+171 rohitkumar vikas.sonawane
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 36	 Sick: 30
+New Carry forwards 
+43	30
+167 rahul kumbhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 37	 Sick: 27
+New Carry forwards 
+44	30
+77 prashant gangan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 2
+Old carry forwards	 Earned: 27	 Sick: 28
+New Carry forwards 
+34	30
+165 Rohith Gandhi.Patchigolla
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 15	 Sick: 22
+New Carry forwards 
+22	28
+127 vishesh aggarwal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 24	 Sick: 19
+New Carry forwards 
+31	25
+221 anurag kulshrestha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 8	 Sick: 30
+New Carry forwards 
+15	30
+214 arun b.kumar (qad)
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 1
+Old carry forwards	 Earned: 0	 Sick: 5
+New Carry forwards 
+7	10
+235 Mahesh B.Jadhav
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 31	 Sick: 23
+New Carry forwards 
+38	29
+238 nikhil dangat
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 3
+Old carry forwards	 Earned: 30	 Sick: 30
+New Carry forwards 
+37	30
+62 ishan verma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 4
+Old carry forwards	 Earned: 20	 Sick: 1
+New Carry forwards 
+27	3
+208 veeresh gutta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 23	 Sick: 11
+New Carry forwards 
+30	16
+250 shrinath deshmukh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 30
+New Carry forwards 
+28	30
+217 alan g.varghese
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 11
+New Carry forwards 
+14	17
+213 ashish agrahari
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 18
+New Carry forwards 
+14	23
+218 Ajin Jose
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 9	 Sick: 17
+New Carry forwards 
+16	23
+161 Priyank Jain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 13	 Sick: 12
+New Carry forwards 
+20	18
+261 Vishal I. Galave
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 11
+New Carry forwards 
+24	17
+68 krishna zore
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 18
+New Carry forwards 
+24	24
+65 Kingshuk Haldar
+Buckets	 Earned: 0	 Sick: 0
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 0	 Sick: 30
+New Carry forwards 
+0	29
+60 Indira P. Bobburi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 12
+New Carry forwards 
+29	18
+154 omkar m. kesarkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 13	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 17
+New Carry forwards 
+14	23
+265 gitesh yeole
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 5
+Old carry forwards	 Earned: 27	 Sick: 17
+New Carry forwards 
+34	18
+264 anurag jarolia
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 18	 Sick: 30
+New Carry forwards 
+25	30
+270 subodh d. deodhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 13	 Sick: 19
+New Carry forwards 
+20	25
+269 Paresh Prabhudesai
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 24
+New Carry forwards 
+24	30
+266 Nakul Goud
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 20	 Sick: 17
+New Carry forwards 
+27	23
+267 Amit Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 7
+New Carry forwards 
+17	13
+273 Gaurav Sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 20	 Sick: 24
+New Carry forwards 
+27	30
+274 vaibhav kurade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 26
+New Carry forwards 
+35	30
+527 ravindra masal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 19
+New Carry forwards 
+21	25
+531 vinayak daiv
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 19	 Sick: 6
+New Carry forwards 
+26	10
+532 meha desai
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 7
+New Carry forwards 
+17	13
+542 aniket abhay kulkarni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 2
+Old carry forwards	 Earned: 0	 Sick: 8
+New Carry forwards 
+7	12
+544 saurabh patwardhan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 22	 Sick: 24
+New Carry forwards 
+29	28
+548 dinesh kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 12	 Sick: 6
+New Carry forwards 
+19	11
+564 Tejas Aptikar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: -1
+New Carry forwards 
+18	5
+578 mukul atri
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 0
+Old carry forwards	 Earned: 19	 Sick: 15
+New Carry forwards 
+26	21
+586 ashish khemka
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 0
+New Carry forwards 
+18	6
+582 sandeep dravid
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 2
+Old carry forwards	 Earned: 21	 Sick: 17
+New Carry forwards 
+28	21
+593 atul patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 7
+New Carry forwards 
+21	13
+594 primesh varude
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 13	 Sick: 7
+New Carry forwards 
+20	11
+595 tushar patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 2
+Old carry forwards	 Earned: 9	 Sick: 8
+New Carry forwards 
+16	12
+603 abhinav sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 11
+New Carry forwards 
+14	16
+605 Kaushik Chandrasekhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 15	 Sick: -1
+New Carry forwards 
+22	5
+606 kajal khan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 9	 Sick: 13
+New Carry forwards 
+16	19
+609 kumar kartikeya4
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 18
+New Carry forwards 
+24	24
+612 piyush soni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 10
+New Carry forwards 
+21	16
+619 amar bhapkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 13	 Sick: 13
+New Carry forwards 
+20	19
+620 shashwat shukla
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 7
+New Carry forwards 
+21	13
+621 radhika bhavsar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 4	 Sick: 12
+New Carry forwards 
+11	18
+626 raghav srusti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 14	 Sick: 11
+New Carry forwards 
+21	15
+629 ritesh yeole
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 13	 Sick: 5
+New Carry forwards 
+20	10
+631 venkat rao sanke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 11
+New Carry forwards 
+18	17
+637 yadnyesh pradhan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 7
+New Carry forwards 
+19	13
+636 aditya budaraju
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 12	 Sick: 0
+Old carry forwards	 Earned: 6	 Sick: 5
+New Carry forwards 
+13	11
+638 pavan dikondkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+14	12
+640 ashish jaiswal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 2
+Old carry forwards	 Earned: 7	 Sick: 5
+New Carry forwards 
+14	9
+641 kumar bappaditya salui
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 11	 Sick: 8
+New Carry forwards 
+18	13
+652 nilesh v. hibare
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 9	 Sick: 3
+New Carry forwards 
+16	8
+653 Viswanath Yakkala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 9	 Sick: 8
+New Carry forwards 
+16	13
+654 Om Batri
+Buckets	 Earned: 0	 Sick: 0
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 8	 Sick: 9
+New Carry forwards 
+8	9
+658 Nijas M. Kunju
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 8	 Sick: 5
+New Carry forwards 
+15	10
+659 Pavan Gurupwar
+Buckets	 Earned: 2	 Sick: 1
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+9	7
+662 rajesh meena
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+14	11
+663 swapnil joshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+14	11
+664 utkarsh rathod
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	6
+665 balamurugan ganesan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+14	12
+666 shweta mudgal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+14	12
+676 Naveen Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 5
+New Carry forwards 
+14	11
+677 anand chapekar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 3
+New Carry forwards 
+14	9
+678 chinmay hegde
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 2
+Old carry forwards	 Earned: 6	 Sick: 2
+New Carry forwards 
+13	6
+679 amit kimmatkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 5
+New Carry forwards 
+14	11
+680 Pradeep Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 4
+New Carry forwards 
+14	10
+682 dilip dewani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 2
+Old carry forwards	 Earned: 6	 Sick: 1
+New Carry forwards 
+13	5
+687 Dominic DSilva
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 4
+New Carry forwards 
+14	10
+688 Amit Singhal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 4
+New Carry forwards 
+14	10
+689 Saurabh Lale
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 1
+New Carry forwards 
+14	6
+690 siddharth jaiswal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 0	 Sick: 2
+New Carry forwards 
+7	7
+691 Vishnuram Venkatraman
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 0
+New Carry forwards 
+14	6
+692 abhijit patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 3
+New Carry forwards 
+14	9
+693 harshrajsinh jadeja
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 0	 Sick: 1
+New Carry forwards 
+7	6
+303 vasanth r d
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 4
+New Carry forwards 
+12	10
+696 himangshu bora
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 4	 Sick: 3
+New Carry forwards 
+11	9
+697 mayur mhasavade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 3	 Sick: 2
+New Carry forwards 
+10	8
+700 Manoj Chandode
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 3
+New Carry forwards 
+12	9
+709 Pooja Joshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 2	 Sick: 0
+New Carry forwards 
+9	6
+710 Avinash Jagdale
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 1
+New Carry forwards 
+8	7
+711 Girish Bhardwaj
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 2
+New Carry forwards 
+12	8
+712 santhosh v. padala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 2
+New Carry forwards 
+8	8
+713 Phanendra Rayala
+Buckets	 Earned: 5	 Sick: 1
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 2
+New Carry forwards 
+1	3
+715 Mayank Shekhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 4	 Sick: 1
+New Carry forwards 
+11	7
+717 sudhakar rao peram
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 1
+New Carry forwards 
+8	7
+718 Nikhil Manchalwar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 3	 Sick: 1
+New Carry forwards 
+10	7
+719 Vadivel Palanisamy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 3	 Sick: 1
+New Carry forwards 
+10	6
+182 sourabh shrivastava
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 1
+New Carry forwards 
+7	7
+741 Nilesh Soundattikar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+723 Dhanrajsinh Gohil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+724 krishna samavedam
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+728 Raguraman Thulasiraman
+Buckets	 Earned: 20	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+729 Vinay K. Palagiri
+Buckets	 Earned: 19	 Sick: 5
+Availed	 Earned: 9	 Sick: 2
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	3
+731 rohan shedbalkar
+Buckets	 Earned: 19	 Sick: 5
+Availed	 Earned: 1	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+645 yojana ambavkar
+Buckets	 Earned: 19	 Sick: 5
+Availed	 Earned: 1	 Sick: 1
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	4
+733 Nikita Phalke
+Buckets	 Earned: 19	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+735 manoj gajenderan
+Buckets	 Earned: 18	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+737 Himanshu Rawal
+Buckets	 Earned: 17	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+738 Rahul Gaikwad
+Buckets	 Earned: 17	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+739 Shrirang Shivankar
+Buckets	 Earned: 17	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+742 Dhiraj K. Singh
+Buckets	 Earned: 16	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+740 Neethi Nair
+Buckets	 Earned: 16	 Sick: 5
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	5
+331 jai pollayil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 34	 Sick: 28
+New Carry forwards 
+41	30
+332 priya devan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 24	 Sick: 21
+New Carry forwards 
+31	25
+333 nayan chandak
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 39	 Sick: 27
+New Carry forwards 
+46	30
+335 mithun k s rao
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 29	 Sick: 1
+New Carry forwards 
+36	6
+337 sankar ramachandran
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 46	 Sick: 30
+New Carry forwards 
+53	30
+338 subrata nandy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 29	 Sick: 7
+New Carry forwards 
+36	11
+339 aleena emmanuel
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 5
+Old carry forwards	 Earned: 20	 Sick: 3
+New Carry forwards 
+27	4
+342 vinayakam subramanian
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 29	 Sick: 2
+New Carry forwards 
+36	8
+344 dileesh jostin
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 2
+Old carry forwards	 Earned: 37	 Sick: 16
+New Carry forwards 
+44	20
+345 shreya sashi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 38	 Sick: 16
+New Carry forwards 
+45	22
+346 kiran puranikmath
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 37	 Sick: 30
+New Carry forwards 
+44	30
+349 vaibhaw chandrakar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 37	 Sick: 30
+New Carry forwards 
+44	30
+354 ganesh kumar tsavatapalli
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 3
+Old carry forwards	 Earned: 16	 Sick: 5
+New Carry forwards 
+23	8
+355 alok ranjan mund
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 45	 Sick: 28
+New Carry forwards 
+52	30
+357 mathew joseph kaipanatu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 29	 Sick: 24
+New Carry forwards 
+36	29
+359 vishnu raj
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 22	 Sick: 26
+New Carry forwards 
+29	30
+360 eldo n baby
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 1
+Old carry forwards	 Earned: 23	 Sick: 17
+New Carry forwards 
+30	22
+361 vaibhav gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 20
+New Carry forwards 
+14	26
+363 kumar avala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 45	 Sick: 6
+New Carry forwards 
+52	11
+364 saptarshi patra
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 3
+Old carry forwards	 Earned: 37	 Sick: 2
+New Carry forwards 
+44	5
+367 kiran tej
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 36	 Sick: 18
+New Carry forwards 
+43	24
+368 piyush jain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 13
+New Carry forwards 
+18	19
+370 siddalingesh tenginakai
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 34	 Sick: 30
+New Carry forwards 
+41	30
+372 rishikanth mekala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 30	 Sick: 16
+New Carry forwards 
+37	22
+375 anusha gummana
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 33	 Sick: 23
+New Carry forwards 
+40	29
+380 mohammed hafiz
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 27	 Sick: 18
+New Carry forwards 
+34	22
+381 ajosh k. jose
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 2
+Old carry forwards	 Earned: 26	 Sick: 8
+New Carry forwards 
+33	12
+382 mir gayur hussain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 0
+Old carry forwards	 Earned: 13	 Sick: 6
+New Carry forwards 
+20	12
+496 Naveen B
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 28	 Sick: 14
+New Carry forwards 
+35	19
+388 renjith n. r
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 24
+New Carry forwards 
+28	30
+511 abhijith m v
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 14
+New Carry forwards 
+35	20
+530 jayakumar s
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 19	 Sick: 2
+Old carry forwards	 Earned: 28	 Sick: 10
+New Carry forwards 
+30	14
+549 john alwyn j
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 26
+New Carry forwards 
+28	30
+475 anudeep surasani
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 18	 Sick: 3
+New Carry forwards 
+25	9
+589 ramesh agarwal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 15
+New Carry forwards 
+17	21
+488 sumandeep kaur
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 8
+New Carry forwards 
+19	14
+633 alina sebastian
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 2
+Old carry forwards	 Earned: 8	 Sick: 2
+New Carry forwards 
+15	6
+634 vishal narkhede
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 10
+New Carry forwards 
+14	16
+635 krishnakanth gilakamsetti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 9	 Sick: 10
+New Carry forwards 
+16	16
+405 S Kumar Varma Mantena
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 15
+New Carry forwards 
+19	21
+639 manali sanjay khare
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 6
+New Carry forwards 
+14	11
+643 arun g
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 6
+Old carry forwards	 Earned: 2	 Sick: 0
+New Carry forwards 
+9	0
+650 poornima a khened
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 10	 Sick: 3
+New Carry forwards 
+17	7
+651 raja ramachandra rao
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 12	 Sick: 1
+Old carry forwards	 Earned: 4	 Sick: 0
+New Carry forwards 
+11	5
+657 abhishek aigal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 3
+New Carry forwards 
+14	9
+667 sojan philips
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 4
+New Carry forwards 
+14	10
+668 vimal varghese chacko
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 3
+New Carry forwards 
+12	9
+674 greeshma prakasan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 2
+New Carry forwards 
+14	7
+675 sachin s dominic
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 1
+Old carry forwards	 Earned: 7	 Sick: 4
+New Carry forwards 
+14	9
+702 Vikas Jha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 2
+New Carry forwards 
+14	8
+703 shubham singhal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 8	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 2
+New Carry forwards 
+8	8
+704 venkata naveen reddy chedeti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 4	 Sick: 0
+New Carry forwards 
+11	5
+707 Priya Kumari
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 6	 Sick: 2
+New Carry forwards 
+13	8
+714 praphulla pandey
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 6	 Sick: 2
+Old carry forwards	 Earned: 0	 Sick: 2
+New Carry forwards 
+7	6
+722 Rahul Rajan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+479 manoj kumar jena
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 60	 Sick: 30
+New Carry forwards 
+60	30
+393 subrata mukherjee
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 3
+Old carry forwards	 Earned: 60	 Sick: 12
+New Carry forwards 
+60	15
+394 shyamal sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 2
+Old carry forwards	 Earned: 52	 Sick: 26
+New Carry forwards 
+59	30
+398 anant narain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 60	 Sick: 26
+New Carry forwards 
+60	30
+400 seema naswa
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 29	 Sick: 6
+New Carry forwards 
+36	12
+491 sandeep dabas
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 2
+Old carry forwards	 Earned: 38	 Sick: 0
+New Carry forwards 
+45	4
+487 prashant shekhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 0
+Old carry forwards	 Earned: 19	 Sick: 20
+New Carry forwards 
+26	26
+482 sushant sinha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 3
+Old carry forwards	 Earned: 15	 Sick: 17
+New Carry forwards 
+22	20
+470 aman soni
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 24	 Sick: 30
+New Carry forwards 
+31	30
+468 milan saxena
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 1
+Old carry forwards	 Earned: 30	 Sick: 7
+New Carry forwards 
+37	12
+493 subhasish chakraborti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 5
+Old carry forwards	 Earned: 32	 Sick: 6
+New Carry forwards 
+39	7
+469 vandana mehta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 28	 Sick: 11
+New Carry forwards 
+35	16
+476 aparna garg
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 1	 Sick: 1
+Old carry forwards	 Earned: 19	 Sick: 5
+New Carry forwards 
+26	10
+474 abhishek yadav
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 1
+Old carry forwards	 Earned: 20	 Sick: 30
+New Carry forwards 
+27	30
+409 arpit jain
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 3
+Old carry forwards	 Earned: 15	 Sick: 14
+New Carry forwards 
+22	17
+492 abhishek joshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 20	 Sick: 24
+New Carry forwards 
+27	30
+512 love singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 0
+Old carry forwards	 Earned: 27	 Sick: 6
+New Carry forwards 
+34	12
+524 nishant chauhan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 5	 Sick: 1
+Old carry forwards	 Earned: 28	 Sick: 0
+New Carry forwards 
+35	5
+541 praveen singhal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 3
+Old carry forwards	 Earned: 24	 Sick: 12
+New Carry forwards 
+31	15
+537 kunal singal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 9	 Sick: 1
+Old carry forwards	 Earned: 26	 Sick: 27
+New Carry forwards 
+33	30
+588 Amit Jangra
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 18	 Sick: 11
+New Carry forwards 
+25	16
+591 Prateek Gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 16
+New Carry forwards 
+28	22
+656 abhinav kumar singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 4	 Sick: 2
+Old carry forwards	 Earned: 10	 Sick: 2
+New Carry forwards 
+17	6
+395 sunny arora
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 2	 Sick: 3
+Old carry forwards	 Earned: 5	 Sick: 0
+New Carry forwards 
+12	3
+661 akshay taneja
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 10	 Sick: 4
+Old carry forwards	 Earned: 7	 Sick: 2
+New Carry forwards 
+14	4
+756 Praloy Kumar Biswas
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+705 arpan khare
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 12	 Sick: 2
+Old carry forwards	 Earned: 2	 Sick: 0
+New Carry forwards 
+9	4
+706 Shreyashi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 7	 Sick: 0
+Old carry forwards	 Earned: 1	 Sick: 1
+New Carry forwards 
+8	7
+725 Phaninder Injeti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 3	 Sick: 0
+Old carry forwards	 Earned: 35	 Sick: 0
+New Carry forwards 
+42	6
+52 bhushan bhimrao lokare
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 0
+New Carry forwards 
+21	6
+750 Mukesh Bauskar
+Buckets	 Earned: 16	 Sick: 4
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	4
+749 subashni ravichandran
+Buckets	 Earned: 16	 Sick: 4
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	4
+748 ajinkya devshette
+Buckets	 Earned: 15	 Sick: 4
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	4
+497 bhat raghavendra
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+755 Mahesh Kadam
+Buckets	 Earned: 13	 Sick: 4
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	4
+336 Prashant H Pahade
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+334 Navinkumar V Patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+340 Sreekanth V R
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 8
+New Carry forwards 
+28	14
+341 Tinu Thomas
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 29	 Sick: 30
+New Carry forwards 
+36	30
+343 Sudarsana M Reddy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 43	 Sick: 10
+New Carry forwards 
+50	16
+347 Rohin Mittal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+348 Srujana Padala
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 31	 Sick: 13
+New Carry forwards 
+38	19
+350 Sushant  Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+351 Vineeth Prathapa Chandra Kaimal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+352 Amit Kumar Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+353 Pavan Kumar  Rangudu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+356 Nithin A Valentine
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+358 P Krishna Kanth
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+362 Punith Suresh
+Buckets	 Earned: 5	 Sick: 1
+Availed	 Earned: 0	 Sick: 4
+Old carry forwards	 Earned: 31	 Sick: 24
+New Carry forwards 
+36	21
+365 Rajasekar Raman
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+366 Vishal Kashyap
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 17	 Sick: 16
+New Carry forwards 
+24	22
+369 Prem Kumar C N N
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+371 Mirza Milan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 24	 Sick: 30
+New Carry forwards 
+31	30
+373 Sidharth Sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+374 Nita Simon
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+376 Prateek Agrawal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+377 Vamshi Krishna
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+379 Kaoushik R Ramamoorthy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 15	 Sick: 28
+New Carry forwards 
+22	30
+383 Mahesh V. Yatagiri
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 20
+New Carry forwards 
+35	26
+387 Kavya Dorna
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 21
+New Carry forwards 
+29	27
+509 Vinay Kumar Chepoori
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 20
+New Carry forwards 
+28	26
+510 Arya Renjan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 2	 Sick: 4
+New Carry forwards 
+9	10
+514 Vinay Chandru G R
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+455 Gantasala Srinivas
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 24	 Sick: 26
+New Carry forwards 
+31	30
+525 Sumit Mehta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+535 Charly Poul
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 7
+New Carry forwards 
+12	13
+577 Amartya Sengupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 12	 Sick: 10
+New Carry forwards 
+19	16
+607 Koshy John
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 5	 Sick: 9
+New Carry forwards 
+12	15
+608 Godwin Rajasekhar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 10	 Sick: 7
+New Carry forwards 
+17	13
+660 Sudheer Kamisetty
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 6	 Sick: 1
+New Carry forwards 
+13	7
+390 Gaurav  Gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 60	 Sick: 9
+New Carry forwards 
+60	15
+391 Gagan  Khanna
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+471 Manoj Sharma
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 60	 Sick: 11
+New Carry forwards 
+60	17
+397 Prabhas R Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 60	 Sick: 21
+New Carry forwards 
+60	27
+399 Toshi  Mathur
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+473 Dinesh Kumar Rawat
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+401 Ankit  Jain
+Buckets	 Earned: 2	 Sick: 1
+Availed	 Earned: 0	 Sick: 1
+Old carry forwards	 Earned: 60	 Sick: 23
+New Carry forwards 
+60	23
+402 Shakti  Malik
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+403 Saumik  Sarkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+486 Govind Krishna Pal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 11
+New Carry forwards 
+21	17
+489 Riti Gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+404 Amitabh Singh Chandel
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+490 Soumya Palit
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+478 Shilpa Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+477 Yogendra Singh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+472 Mayank Arora
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+481 Gaurav Bafna
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+485 Shailesh Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+480 Rohit Tandra
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+407 Neeraj Kumar Pandey
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+408 Dravit Rana
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 11	 Sick: 19
+New Carry forwards 
+18	25
+411 Bhaskar Chandra Chawda
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 13	 Sick: 4
+New Carry forwards 
+20	10
+412 Indrasish Saha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+484 Sourav Das
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+543 Jatin Bajaj
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 13	 Sick: 7
+New Carry forwards 
+20	13
+673 Praloy Kumar Biswas
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 3
+New Carry forwards 
+14	9
+457 Avneesh Chaturvedi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+494 Monoj Agarwalla
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+495 Asha Gopal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+517 TEST 999
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+328 
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+413 Stephanie Tysinger               
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+414 Jennifer R. Gerchow
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+415 Jay Cutler II
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+417 Debra A. Burk                    
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+418 Steve Dick
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+419 Tom Norton                       
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+420 Hans-Kurt Lubberstedt            
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+421 steve reuss
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+422 Hrvoje Roglic
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+423 mohammed qureshi
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+424 james geis
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+425 Rajitha Chowdavarapu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+426 Eric Grald                       
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+427 Peter Wild
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+428 Pankaj Gupta
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+429 Brian Drew                       
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+430 Boris Makarov
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+431 rongguang jia
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+432 laith zori
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+434 Nelson Carter                    
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+435 Shaun McGoldrick
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+437 jogesh chopra
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+438 aline beley
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+439 jin wang
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+440 yongyi zhu
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+441 jan frykestig
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+442 young kyu lee
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+443 Greg Fallon                      
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+444 Barry Christenson
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+447 lisa davis
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+448 Frank Parry
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+449 Tom Smithyman
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+450 steve elias
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+453 ryan snyder
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+499 udo tremel
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+553 richard castman
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+556 jeff abshoff
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+557 Joe Manich
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+560 Eric Bish
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+562 Hope Spadora
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+565 michael price
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+566 prasad alavilli
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+567 Narkeeran Narsimhan
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+568 sin min yap
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+569 scott d stanton
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+570 renee l demay
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+571 chokri guetari
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+573 Hope, Campbell B
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+574 Tom Kindermans
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+580 karry creagh
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+581 thomas marnik
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+583 Manish SInha
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+585 nicole diana
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+590 Terri Washington
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+596 mike didaniels
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+598 rich pivik
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+600 paul g lethbridge
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+614 taro matsumoto
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+615 emily chang
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+616 Sanela Orsino
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+618 Xiguang Song(Daisy Song)
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+623 markus braun
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+625 sean harvey
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+628 bill vandermark
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+644 jen arnold
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+669 patrick sharkey
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+670 sarah bush
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+681 Cyrille Fague
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+683 Richard Mahoney
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+684 imtiaz ahmed
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+685 andy walters
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+694 Richard Kitts
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+695 Kaori Yonezawa
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+698 diane clarke
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+701 karl kuehlert
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+708 Jens Werner
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+716 matthew macconnel
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+720 madhu keshavamurthy
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+721 Kristen SeCaur
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+726 sean chou
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+727 anders grimsrud
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+730 david street
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+732 frederick horn
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+734 James Lei
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+736 brett toner
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+536 Sameer Kher
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+592 John Lee
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+613 Murat Becer
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+617 bill mullen
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+622 Prabhas Kumar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 7	 Sick: 7
+New Carry forwards 
+14	13
+743 Sutikno Wirogo
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+751 Michelle Weinstein
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+752 stephane capezzone
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+753 Paul Wightman
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+754 Nagato Date
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+500 Ajay K Baranwal
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+501 Ajay Singh Bisht
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+502 Andrew T Yang
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+503 Charles Seddon
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+504 Ersin Beyret
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+505 Paul Traynar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+506 Venkata R Nemalikanti
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+507 Ying-shiun Li
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+516 Weize Xie
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+538 Kushal Patil
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 28	 Sick: 30
+New Carry forwards 
+35	30
+547 Avinash Babar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 22	 Sick: 30
+New Carry forwards 
+29	30
+759 Test test
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	6
+498 test name
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+529 Fares Mubarak
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+575 Steve McCormick
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+584 Aveek Sarkar
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 27
+New Carry forwards 
+28	30
+632 Doug Kaufman
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 14	 Sick: 17
+New Carry forwards 
+21	23
+554 Test User
+Buckets	 Earned: 21	 Sick: 6
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 21	 Sick: 26
+New Carry forwards 
+28	30
+757 Shraddha Kulkarni
+Buckets	 Earned: 8	 Sick: 8
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	8
+758 Test test
+Buckets	 Earned: 8	 Sick: 8
+Availed	 Earned: 0	 Sick: 0
+Old carry forwards	 Earned: 0	 Sick: 0
+New Carry forwards 
+7	8

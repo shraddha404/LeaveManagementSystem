@@ -1,0 +1,277 @@
+body {
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+	margin-left: 20px;
+	margin-top: 0px;
+	background: #fff;
+	color: #333;
+}
+
+a:hover{
+	background: #FFF;
+	color: #000;
+	text-decoration: underline;
+}
+
+h1 {
+	font: 150% bold Arial, Helvetica, sans-serif; 
+}
+
+h1,h2,h3,h4,h5,.heading4,.heading3,.tableheaders,.whitehead,.buffhead,h4.black,kbd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000;
+}
+
+h2 {
+	font-size: 140%;
+	margin-bottom: 10px;
+}
+
+h4.black, .heading3 {
+	color: #000000;
+}
+
+h5 {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+kbd{
+	background: #FF9933;
+
+}
+
+p.larger, .hptextlg {
+	font-size: 130%;
+}
+
+p.small,.hptext{
+	font-size: 95%;
+}
+
+p.smaller{
+	font-size: 85%;
+}
+
+p.smaller,.smalltext{
+	font-size: 90%;
+}
+
+table {
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+}
+
+table.main {
+	border: 1px solid #000000;
+	margin: 0px;
+}
+table td h2 {
+	font-size: 140%;
+}
+
+th{
+	font-weight: bold;
+	text-align: left;
+}
+
+.dottedline{
+	background: transparent;
+	color: #999999;
+	font: 90% Times,Helvetica,sans-serif;
+}
+
+.graydate{
+	background: transparent;
+	color: #666666;
+}
+
+.gridline{
+	background: #000000;
+}
+
+.heading4{
+	color: #003399;
+}
+
+.pagenumbers{
+	background: transparent;
+	color: #000000;
+	text-transform: uppercase;
+}
+
+.red{
+	color: #FF0000;
+}
+
+.redbold{
+	color: #FF0000;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.strong{
+	font-weight: bold;
+}
+
+/* h3 size is set 13px for aligning with hier menu  height */
+h3, h4, p.large {
+	font-size: 13px;
+}
+
+.tableheaders {
+	font-size: 13px;
+}
+
+#departments {
+	background: #F5F5DC;
+	border: 1px solid #000;
+	width: 203px;
+}
+
+#departments th {
+	background: #CCCC99;
+	color: #000;
+	text-align: center;
+}
+
+#divContainer{
+	clip: rect(0,600,110,0);
+	height: 60;
+	left: 100;
+	overflow: hidden;
+	position: absolute;
+	top: 55;
+	visibility: hidden;
+	width: 600;
+}
+
+#divContent{
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+
+#divDownControl{
+	left: 10;
+	position: absolute;
+	text-align: right;
+	top: 170;
+	width: 600;
+	z-index: 1;
+}
+
+#divUpControl{
+	left: 10;
+	position: absolute;
+	text-align: right;
+	top: 180;
+	width: 600;
+	z-index: 1;
+}
+
+#footer {
+	font-size: 10px;
+	margin: 5px 20px;
+	text-align: center;
+	width: 740px;
+}
+
+#funstuff {
+	background: #E2E8EB;
+	border: 1px solid #000000;
+	width: 192px;
+}
+
+#funstuff th{
+	background: #3399CC;
+	color: #FFF;
+	text-align: center;
+}
+
+#header {
+	background: #FFFFFF;
+	border: 0px;
+	font-size: 90%;
+	width: 740px;
+}
+
+#headerNews{
+	color: #FFF;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#headerNews a {
+	text-decoration: underline;
+}
+
+#qualitynote{
+	background: #F5F5DC;
+	border: 1px solid #000;
+	width: 366px;
+}
+
+#qualitynote p{
+	padding: 5px 15px;
+}
+
+#qualitynote th{
+	background: #CC0000;
+	color: #FFF;
+	text-align: center;
+}
+
+#qualitynote-blue{
+	background: #F5F5DC;
+	border: 1px solid #000;
+	width: 400px;
+}
+
+#qualitynote-blue th{
+	background: #003399;
+	color: #FFF;
+	text-align: center;
+}
+
+#quicklinks {
+	background: #FEECCF;
+	border: 1px solid #000000;
+}
+
+#quicklinks th {
+	background: #FA9B17;
+	color: #000;
+	text-align: center;
+}
+
+#quicklinks tr td table tr td, #worldwide td, #funstuff td, #departments td{
+	padding-left: 4px;
+}
+
+
+#worldwide {
+	background: #F9F9F9;
+	border: 1px solid #000;
+	border-color: #000000;
+	width: 366px;
+}
+
+#worldwide h5 {
+	font: bold 100%  Arial, Helvetica, sans-serif;
+	margin-top: 5px;
+}
+
+#worldwide th {
+	background: #C2CED5;
+	color: #000;
+	text-align: center;
+}
+.hl0{
+	background-color:yellow;
+}
+.hl1{
+	background-color:pink;
+}
+.hl2{
+	background-color:#ccc;
+}

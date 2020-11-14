@@ -1,0 +1,3 @@
+1.Import 3 sql files.(fi_ou.sql,fi_office_locations.sql,fi_dept.sql)
+2.Go to the script folder using command line ( /var/www/html/leavemanagement/script)
+3.Please run script using php -q insert_user_data.php LMS_Data_for_Ketan.csv

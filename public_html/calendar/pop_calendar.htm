@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>Calendar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+var month,day,year;
+function fill_date(month,day,year){
+
+switch(month){
+case 'January':
+month=01;
+break;
+case 'February':
+month=02;
+break;
+case 'March':
+month=03;
+break;
+case 'April':
+month=04;
+break;
+case 'May':
+month=05;
+break;
+case 'June':
+month=06;
+break;
+case 'July':
+month=07;
+break;
+case 'August':
+month=08;
+break;
+case 'September':
+month=09;
+break;
+case 'October':
+month=10;
+break;
+case 'November':
+month=11;
+break;
+case 'December':
+month=12;
+break;
+}
+
+opener.type(month,day,year);
+window.close();
+}
+
+  //-->
+</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<?php
+$arg1=$_GET[arg1];
+$arg2=$_GET[arg2];
+$cal_string=`cal $arg1 $arg2`;
+$l=explode("\n",$cal_string);
+$month_year=explode("\t",$l[0]);
+$x=$month_year[0];
+$y=trim($x);
+$z=explode(" ",$y);
+$year=$z[1];
+?>
+ <a href="pop_calendar.htm?arg1=1&arg2=<?php echo $year; ?>">January</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=2&arg2=<?php echo $year; ?>">February</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=3&arg2=<?php echo $year; ?>">March</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=4&arg2=<?php echo $year; ?>">April</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=5&arg2=<?php echo $year; ?>">May</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=6&arg2=<?php echo $year; ?>">June</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=7&arg2=<?php echo $year; ?>">July</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=8&arg2=<?php echo $year; ?>">August</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=9&arg2=<?php echo $year; ?>">September</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=10&arg2=<?php echo $year; ?>">October</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=11&arg2=<?php echo $year; ?>">November</a>&nbsp;&nbsp; 
+ <a href="pop_calendar.htm?arg1=12&arg2=<?php echo $year; ?>">December</a>&nbsp;&nbsp; 
+<?php
+require "dates.php";
+?>
+</body>
+</html>
+

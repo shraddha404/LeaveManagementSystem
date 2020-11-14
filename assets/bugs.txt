@@ -1,0 +1,31 @@
+1. Manager comments can not be entered (LAK)				=> Done
+2. Revision number info to be stored (LAK)
+3. Back up plan to be shared (AMAR)
+4. Security features (LAK)
+5. Add balance check just before approval of leaves (MEGHA)		=> Done
+
+6. Apache/Sequence data to be imported					=>leave_register_apache_bangalore_updated.csv,
+									leave_register_sequence_updated.csv
+									employee_register_apache_bangalore.csv
+									employee_register_sequence.csv
+
+7. Some employees are not seen in the dept reports - New script,	=>Done
+scripts/update_dept.php added to fix this issue.
+
+8. Drop-down for OU selection to be added to restrict view to a certain OU
+
+9. LDAP authentication is not working for some employees. Error handling to be added.
+
+10. HR only interface to edit a leave - HR needs to edit type of leaves only.
+
+11. Approval does not happen from one of the interface. Fix needed.
+
+12. Overlap of leaves still happening. Fix is needed.			=>Done
+    Fix added in Employee class
+
+13. Successive leave applications to be counted as one leave for validations.
+- This does not have to be done now.
+
+14. Provision to delete an employee to be added.			=>Done
+
+15. Show row of Maternity leaves only if availed.			=> Done

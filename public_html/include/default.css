@@ -1,0 +1,117 @@
+body{
+	background:#fff url(../images/ansys_logo.png) no-repeat;
+}
+
+.button {
+	border-top : solid 1px #d5d5d5;
+	border-right : solid 1px #808080;
+	border-bottom : solid 1px #808080;
+	border-left : solid 1px #d5d5d5;
+	color : #333;
+	font-weight : bold;
+}
+.inputbox {
+        z-index: -3;
+        font-size: 11px;
+}
+.text_area {
+        border : 1px solid #ccc;
+        z-index: -3;
+        font-size: 11px;
+}
+input, textarea, select {
+	z-index : -3;
+	font-size: 11px;
+}
+
+table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	
+}
+
+.tabForm {
+BORDER-RIGHT: #9e9e9e 1px solid; PADDING-RIGHT: 5px; BACKGROUND-POSITION: 50% bottom; BORDER-TOP: #9e9e9e 1px solid; PADDING-LEFT: 5px;  PADDING-BOTTOM: 5px; BORDER-LEFT: #9e9e9e 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #9e9e9e 1px solid;BACKGROUND-COLOR: #efefef
+}
+
+/* standard list style table */
+table.adminlist {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #145678;
+	border-spacing: 0px;
+	width: 60%;
+	border-collapse: collapse;
+}
+
+table.adminlist th {
+	margin: 10px 0px 0px 0px;
+	padding: 6px 4px 2px 4px;
+	height: 25px;
+	background: url(../images/background.jpg);
+	
+	background-repeat: repeat;
+	font-size: 11px;
+	
+	color: #000;
+}
+table.adminlist th.title {
+	text-align: center;
+	border: 1px solid #145678;
+	
+	
+}
+
+table.adminlist tr.row0 {
+	background-color: #F9F9F9;
+}
+table.adminlist tr.row1 {
+	background-color: #FFF;
+}
+table.adminlist td {
+		border: 1px solid #145678;
+		padding: 4px;
+ 
+}
+table.adminlist tr.row0:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist tr.row1:hover {
+	background-color: #f1f1f1;
+}
+
+#navlist
+{
+margin: 0;
+padding: 0 0 20px 10px;
+border-bottom: 1px solid #000;
+}
+
+#navlist ul, #navlist li
+{
+margin: 0;
+padding: 0;
+display: inline;
+list-style-type: none;
+}
+
+#navlist a:link, #navlist a:visited
+{
+float: left;
+line-height: 14px;
+font-weight: bold;
+margin: 0 10px 4px 10px;
+text-decoration: none;
+color: #999;
+}
+
+#navlist a:link#current, #navlist a:visited#current, #navlist a:hover
+{
+border-bottom: 4px solid #000;
+padding-bottom: 2px;
+background: transparent;
+color: #000;
+}
+
+#navlist a:hover { color: #000; }
+
